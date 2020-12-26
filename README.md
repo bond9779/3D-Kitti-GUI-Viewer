@@ -12,12 +12,14 @@ This repo provides a GUI interface to view the 3dPoint cloud, Birds eye view and
 
 # For custom datasets
 1. Maintain the following folder structure
-	##.
-	##├── calib
-	##├── image_2
-	##├── label_2
-	##├── velodyne
-	##└── list.txt
+	''' plain
+	.
+	├── calib
+	├── image_2
+	├── label_2
+	├── velodyne
+	└── list.txt
+	'''
 2. Choose the corresponding parent folder
 
 #### Viewer Sample
